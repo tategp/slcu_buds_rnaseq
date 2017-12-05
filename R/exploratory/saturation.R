@@ -127,6 +127,7 @@ for(i in 1:nrow(reads_gene)){
 
 #############################################
 ############ Plotting results ###############
+#############################################
 
 # Saturation curve of unique transcripts
 ggplot(data=reads_transcript, 
