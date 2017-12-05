@@ -2,7 +2,6 @@
 
 # A program that creates saturation plots for transcripts and genes. It also has histogram plots for read count and unique transcripts and genes.
 
-
 ################
 #### Set up ####
 ################
